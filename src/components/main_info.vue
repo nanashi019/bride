@@ -10,7 +10,7 @@
       </div>
       <div class="main-info-location">
         <p>2023년 3월 18일 토요일 오후 3시</p>
-        <p>부천역 채림웨딩홀부페</p>
+        <p>부천역 채림웨딩홀</p>
       </div>
       <div class="divide-line"></div>
       <div class="main-greeting">
