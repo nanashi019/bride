@@ -4,11 +4,11 @@
       <p>신랑에게 연락하기</p>
       <div class="buttons">
         <div class="contact-1-call">
-          <a href="tel:010-3939-1591"><img :src="require('@/assets/images/phone.svg')" /></a>
+          <a href="tel:0"><img :src="require('@/assets/images/phone.svg')" /></a>
         </div>
 
         <div class="contact-1-msg">
-          <a href="sms:010-3939-1591"><img :src="require('@/assets/images/envelope.svg')" /></a>
+          <a href="sms:0"><img :src="require('@/assets/images/envelope.svg')" /></a>
         </div>
       </div>
     </div>
@@ -47,14 +47,14 @@
             <p>아버지 이영호</p>
             <div class="buttons parents">
               <div class="contact-1-call">
-                <a href="tel:010-2848-1674">
+                <a href="tel:0">
                   <div class="icon">
                     <img :src="require('@/assets/images/phone.svg')" />
                   </div>
                 </a>
               </div>
               <div class="contact-1-msg">
-                <a href="sms:010-2848-1674">
+                <a href="sms:0">
                   <div class="icon">
                     <img :src="require('@/assets/images/envelope.svg')" />
                   </div>
@@ -65,14 +65,14 @@
           <p>어머니 윤성미</p>
           <div class="buttons parents">
             <div class="contact-1-call">
-              <a href="tel:010-3017-2728">
+              <a href="tel:0">
                 <div class="icon">
                   <img :src="require('@/assets/images/phone.svg')" />
                 </div>
               </a>
             </div>
             <div class="contact-1-msg">
-              <a href="sms:010-3017-2728">
+              <a href="sms:0">
                 <div class="icon">
                   <img :src="require('@/assets/images/envelope.svg')" />
                 </div>
@@ -89,14 +89,14 @@
             <p>아버지 길성용</p>
             <div class="buttons parents">
               <div class="contact-1-call">
-                <a href="tel:010-5342-7907">
+                <a href="tel:010-3934-7015">
                   <div class="icon">
                     <img :src="require('@/assets/images/phone.svg')" />
                   </div>
                 </a>
               </div>
               <div class="contact-1-msg">
-                <a href="sms:010-5342-7907">
+                <a href="sms:010-3934-7015">
                   <div class="icon">
                     <img :src="require('@/assets/images/envelope.svg')" />
                   </div>
@@ -107,14 +107,14 @@
           <p>어머니 이민자</p>
           <div class="buttons parents">
             <div class="contact-1-call">
-              <a href="tel:010-2067-6907">
+              <a href="tel:010-5398-7015">
                 <div class="icon">
                   <img :src="require('@/assets/images/phone.svg')" />
                 </div>
               </a>
             </div>
             <div class="contact-1-msg">
-              <a href="sms:010-2067-6907">
+              <a href="sms:010-5398-7015">
                 <div class="icon">
                   <img :src="require('@/assets/images/envelope.svg')" />
                 </div>
